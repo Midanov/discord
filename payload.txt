@@ -17,7 +17,7 @@ REM     - Python
 
 
 REM REQUIRED - Set your Python script link
-DEFINE SCRIPT-PY-LINK example.com
+DEFINE SCRIPT-PY-LINK https://github.com/Midanov/discord/blob/main/script.py
 
 
 DELAY 1000
